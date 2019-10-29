@@ -1,0 +1,8 @@
+{
+  "name": "strava",
+  "app_id": "bd11824d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
